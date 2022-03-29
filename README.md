@@ -13,9 +13,9 @@ It allows the reproduction of all figures and results in the manuscript. In part
 - estimation of Survival curves
 - test the prediction of the Markov model
 
-The associated Jupyter Notebooks are available under '/code'.
+The associated Jupyter Notebooks are available under `/code`.
 
-The numerical results and figures are included in '/results'.
+The numerical results and figures are included in `/results`.
 
 
 ### Prerequisites
