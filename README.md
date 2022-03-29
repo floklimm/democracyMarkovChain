@@ -3,7 +3,7 @@ Python code for the estimation of political regime transition matrices
 
 
 This code accompanies the manuscript:
-Quantifying the "end of history" through a Bayesian Markov-chain approach
+Quantifying the end of history through a Bayesian Markov-chain approach
 by Florian Klimm
 
 It allows the reproduction of all figures and results in the manuscript. In particular, this includes
