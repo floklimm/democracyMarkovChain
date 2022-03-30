@@ -20,5 +20,5 @@ The numerical results and figures are included in `/results`.
 
 ### Prerequisites
 - Python (tested for 3.7.10)
-- some standard Python libraries (numpy,seaborn)
+- some standard Python libraries (numpy, seaborn)
 - [lifelines](https://github.com/CamDavidsonPilon/lifelines) for Kaplan-Meier estimates of survival functions
