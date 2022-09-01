@@ -127,3 +127,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+data/V-Dem/V-Dem-CY-Core-v12.csv
