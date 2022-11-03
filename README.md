@@ -17,8 +17,11 @@ The associated Jupyter Notebooks are available under `/code`.
 
 The numerical results and figures are included in `/results`.
 
+Further analysis, as presented in the Supplementary Material is available under  `/SupplementaryAnalysis`.
+
 
 ### Prerequisites
 - Python (tested for 3.7.10)
 - some standard Python libraries (numpy, seaborn)
 - [lifelines](https://github.com/CamDavidsonPilon/lifelines) for Kaplan-Meier estimates of survival functions
+- [pathpy](https://github.com/pathpy/pathpy) to estimate the order of the Markov chain.
